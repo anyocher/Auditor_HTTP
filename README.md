@@ -41,4 +41,4 @@ Este projeto é apenas para fins educacionais e laboratórios controlados.
 - ❌ Não utilize em sites ou sistemas sem autorização explícita.
 - ✅ Utilize em:
 Seus próprios domínios
-Labs intencionais (OWASP Juice Shop, DVWA, WebGoat, etc.)
+Labs intencionais 
