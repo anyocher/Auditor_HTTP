@@ -3,8 +3,6 @@ Verificador de redirecionamento para HTTPS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projeto-Etico%20Auditor-850e32?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Hacking%20Ético-ee6983?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-ffc4c4?style=for-the-badge&logo=lock&logoColor=black" />
 </p>
 
 
